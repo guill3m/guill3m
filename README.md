@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi 👋, my name is Guillem
+
+### 👨‍💻 I’m a Tech Lead, Web Developer, and Designer. With a predilection for front-end web development and a people-first approach. Passionate about design and technology.
 
 <!--
 **guill3m/guill3m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working at [**Ada**](https://ada.com) as the Website Team Lead
+- 🌱 I’m currently learning more on **observability** and **Typescript**
+- 💬 Ask me about **stylesheets** and **design**
+- ⚡ Fun fact: I enjoy tinkering with mechanical keyboards
