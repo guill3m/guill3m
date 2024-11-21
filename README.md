@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at [**Ada**](https://ada.com) as the Website Team Lead
-- 🌱 I’m currently learning more on **observability** and **Typescript**
-- 💬 Ask me about **stylesheets** and **design**
+- 🔭 I’m currently working at [**Ada Health**](https://ada.com) as the Web Team Lead
+- 🌱 I’m currently learning more on **observability**
+- 💬 Ask me about **CSS** and **design**
 - ⚡ Fun fact: I enjoy tinkering with mechanical keyboards
