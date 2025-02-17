@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏻‍💻 I’m currently **open to new opportunities** as Engineering Manager or Frontend/Web Developer
+- 👨🏻‍💻 I’m currently **open to new opportunities** as Engineering Manager or Front-end/Web Developer
 - 🔭 My last role was at [**Ada Health**](https://ada.com) as the Web Team Lead
 - 🌱 I’m learning **Astro** and expanding my knowledge on **observability** tooling
 - 💬 Ask me about **CSS** and **design**
