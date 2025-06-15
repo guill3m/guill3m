@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 - 👨🏻‍💻 I’m currently **open to new opportunities** as Engineering Manager or Front-end/Web Developer
-- 🔭 My last role was at [**Ada Health**](https://ada.com) as the Web Team Lead
-- 🌱 I’m learning **Astro** and expanding my knowledge on **observability** tooling
+- 🔭 My latest role was at [**Ada Health**](https://ada.com) as the Web Team Lead
+- 🌱 I’m enjoying learning **Astro** and always interested on improving my knowledge on **accessibility**
 - 💬 Ask me about **CSS** and **design**
 - ⚡ Fun fact: I enjoy tinkering with mechanical keyboards
 - 📫 How to reach me: [@guill3m.me on Bluesky](https://bsky.app/profile/guill3m.me), or [via LinkedIn](https://www.linkedin.com/in/guillemandreu/)
