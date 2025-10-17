@@ -1,6 +1,6 @@
 # Hi 👋, my name is Guillem
 
-### 👨‍💻 I’m a Tech Lead, Web Developer, and Designer. With a predilection for front-end web development and a people-first approach. Passionate about design and technology.
+### 👨🏻‍💻 I’m an experienced Web Developer and Designer. With a predilection for front-end development and a human-first collaborative approach. Passionate about design, technology, and their convergence.
 
 <!--
 **guill3m/guill3m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏻‍💻 I’m currently **open to new opportunities** as Engineering Manager, Front-end/Web Developer, or Design Engineer
-- 🔭 My latest role was at [**Ada Health**](https://ada.com) as the Web Team Lead
+- 🔭 My latest role was at [**Ada Health**](https://ada.com) as the Web Team Lead, I will shortly start a new role as Frontend Engineer in a different organisation
 - 🌱 I’m enjoying diggin deeper into **Astro**, and always interested on improving my **accessibility** knowledge
 - 💬 Ask me about **CSS** and **Design Systems**
 - ⚡ Fun fact: I enjoy tinkering with mechanical keyboards
