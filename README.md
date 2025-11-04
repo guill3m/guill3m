@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 My latest role was at [**Ada Health**](https://ada.com) as the Web Team Lead, I will shortly start a new role as Frontend Engineer in a different organisation
+- 🔭 I'm currently working at [**AMBOSS**](https://www.amboss.com) as a Frontend Engineer
 - 🌱 I’m enjoying diggin deeper into **Astro**, and always interested on improving my **accessibility** knowledge
 - 💬 Ask me about **CSS** and **Design Systems**
 - ⚡ Fun fact: I enjoy tinkering with mechanical keyboards
